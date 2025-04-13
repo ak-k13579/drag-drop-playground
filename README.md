@@ -41,6 +41,7 @@ This app allows users to drag **Text**, **Image**, and **Shape** elements from t
 4. **Open in browser**
    http://localhost:3000
 5. **Project Structure**
+   
        src/
     ├── assets/             # Static files (icons, images)
 
