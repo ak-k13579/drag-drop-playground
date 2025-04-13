@@ -17,8 +17,8 @@ function PropertiesPanel({ selectedElement, onChange }) {
   };
 
   const handleHelp = () => {
-    alert('This panel allows you to edit the properties of the selected element.');
-  };
+    window.open('https://www.webmobilefirst.com/en/screencasts/e9z0kr0eiblzak/', '_blank');
+  };  
 
   if (!selectedElement) {
     return (
