@@ -1,6 +1,6 @@
 # 🧩 Drag-and-Drop Playground
 
-A simple and beautiful React application for creating a visual playground with drag-and-drop functionality using **jQuery** and styled using **Tailwind CSS**.
+A simple and beautiful React js application for creating a visual playground with drag-and-drop functionality using **jQuery** and styled using **Tailwind CSS**.
 
 This app allows users to drag **Text**, **Image**, and **Shape** elements from the sidebar into the playground, reposition them, and edit their properties.
 
