@@ -43,11 +43,17 @@ This app allows users to drag **Text**, **Image**, and **Shape** elements from t
 5. **Project Structure**
        src/
     ├── assets/             # Static files (icons, images)
-    ├── components/
+
+    ├── components/dragdropplayground
+        
     │   ├── Sidebar.jsx         # Draggable element buttons (Text, Image, Shape)
+
     │   ├── Playground.jsx      # Main droppable canvas
+
     │   ├── PropertiesPanel.jsx # Right panel to edit selected element
+
     ├── App.jsx
+
     └── main.jsx
 
 ## 🧮 How It Works
