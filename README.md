@@ -1,4 +1,4 @@
-# 🧩 Drag-and-Drop Playground
+# PoC Project 1: Drag-and-Drop Playground
 
 A simple and beautiful React js application for creating a visual playground with drag-and-drop functionality using **jQuery** and styled using **Tailwind CSS**.
 
