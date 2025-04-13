@@ -43,7 +43,7 @@ This app allows users to drag **Text**, **Image**, and **Shape** elements from t
    npm install
 4. **Run the app**:
 
-   npm run dev
+   npm start
 6. **Open in browser**:
 
    http://localhost:3000
