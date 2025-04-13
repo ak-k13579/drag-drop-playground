@@ -52,16 +52,16 @@ This app allows users to drag **Text**, **Image**, and **Shape** elements from t
 
 ## 🧮 How It Works
 
-🧱 **Sidebar**
+(1). 🧱 **Sidebar**
 Contains 3 draggable icons:
+    
+    🅰️ Text
+    
+    🖼 Image
+    
+    ⬛ Shape (square)
   
-  🅰️ Text
-  
-  🖼 Image
-  
-  ⬛ Shape (square)
-  
-🧲 **Playground**
+(2). 🧲 **Playground**
 Drop elements from sidebar into playground.
 
 Use jQuery's draggable and droppable to move/position.
@@ -69,7 +69,7 @@ Use jQuery's draggable and droppable to move/position.
 Click an element to show its editable properties.
 
 
-⚙️ **Properties Panel**
+(3). ⚙️ **Properties Panel**
 Dynamically updates based on the selected element type.
 
 Text: Font family, size, bold, italic, underline.
