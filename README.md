@@ -2,9 +2,7 @@
 
 A simple and beautiful React js application for creating a visual playground with drag-and-drop functionality using **jQuery** and styled using **Tailwind CSS**.
 
-
-To See Complete Video of the Project View Click on The Link Below:
-https://www.webmobilefirst.com/en/screencasts/e9z0kr0eiblzak
+Video Demonstration: https://www.webmobilefirst.com/en/screencasts/e9z0kr0eiblzak/
 
 This app allows users to drag **Text**, **Image**, and **Shape** elements from the sidebar into the playground, reposition them, and edit their properties.
 
@@ -97,8 +95,7 @@ All elements: Width, height.
 🧑‍💻 **Author**
 Attaullah Khan Sr. Front End Developer
 
-To See Complete Video of the Project View Click on The Link Below:
-https://www.webmobilefirst.com/en/screencasts/e9z0kr0eiblzak
+Video Demonstration: https://www.webmobilefirst.com/en/screencasts/e9z0kr0eiblzak/
 
 Portfolio: https://www.attaullahkhanweb.com
 
