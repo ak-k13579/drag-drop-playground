@@ -24,7 +24,6 @@ This app allows users to drag **Text**, **Image**, and **Shape** elements from t
 - [React](https://reactjs.org/)
 - [Tailwind CSS](https://tailwindcss.com/)
 - [jQuery](https://jquery.com/)
-- [Vite](https://vitejs.dev/)
 
 ---
 
